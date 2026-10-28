@@ -6,7 +6,7 @@ This repository combines mathematical foundations, financial modelling, and nume
 
 ## Topics
 
-### 03. Covariance and Portfolio Selection
+### [03. Covariance and Portfolio Selection](03-Covariance-and-Portfolio-Selection.ipynb)
 
 - Covariance matrices and multivariate normal distributions
 - Cholesky decomposition and correlated random variables
@@ -14,7 +14,7 @@ This repository combines mathematical foundations, financial modelling, and nume
 - Portfolio optimisation using Python
 - Efficient frontier visualisation
 
-### 04. Geometric Brownian Motion and Merton Problem
+### [04. Geometric Brownian Motion and Merton Problem](04-Discrete-Time-GBM-and-Merton.ipynb)
 
 - Discrete-time Geometric Brownian Motion (GBM)
 - Stock price simulation and visualisation using Python
@@ -22,7 +22,7 @@ This repository combines mathematical foundations, financial modelling, and nume
 - Optimal consumption and investment decisions
 - Infinite-horizon Merton problem
 
-### 05. Wiener Processes and Stochastic Differential Equations
+### [05. Wiener Processes and Stochastic Differential Equations](05-Wiener-Processes-and-SDEs.ipynb)
 
 - Wiener process properties and simulation of Gaussian increments
 - Brownian bridge construction and midpoint refinement
