@@ -6,6 +6,14 @@ This repository combines mathematical foundations, financial modelling, and nume
 
 ## Topics
 
+### [02. Pricing Options](02-Pricing-Options.ipynb)
+
+- No-arbitrage, market completeness, and derivative replication
+- One-period binomial option pricing and hedge ratios
+- Real-world and risk-neutral probabilities
+- Multi-period binomial trees and backward induction
+- Stock price and option value tree visualisation using Python
+
 ### [03. Covariance and Portfolio Selection](03-Covariance-and-Portfolio-Selection.ipynb)
 
 - Covariance matrices and multivariate normal distributions
