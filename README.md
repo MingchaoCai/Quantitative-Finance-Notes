@@ -39,6 +39,15 @@ This repository combines mathematical foundations, financial modelling, and nume
 - Stochastic differential equations and the Euler–Maruyama method
 - Continuous-time GBM and stock price simulation
 
+### [06. Multidimensional SDEs and Itô's Lemma](06-Ito-Lemma-and-SDEs.ipynb)
+
+- Multidimensional Wiener processes and correlated Brownian motion
+- Vector SDEs and multidimensional Euler–Maruyama simulation
+- Multidimensional GBM and covariance of stock returns
+- Quadratic variation and the intuition behind Itô's correction
+- Scalar and multidimensional Itô's lemma
+- Exact GBM solution and Brownian motion on a circle
+
 ## Tools
 
 Python · NumPy · Matplotlib · Jupyter Notebook
