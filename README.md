@@ -1,3 +1,4 @@
+
 # Quantitative Finance Notes
 
 Personal study notes and Python implementations in quantitative finance, developed as part of my MSc Computational Finance studies at King's College London.
@@ -47,6 +48,16 @@ This repository combines mathematical foundations, financial modelling, and nume
 - Quadratic variation and the intuition behind Itô's correction
 - Scalar and multidimensional Itô's lemma
 - Exact GBM solution and Brownian motion on a circle
+
+### [07. Black–Scholes and Delta Hedging](07-Black-Scholes-and-Delta-Hedging.ipynb)
+
+- No-arbitrage pricing and self-financing replication strategies
+- Continuous-time option pricing under the Black–Scholes model
+- European call and put option pricing
+- Option Greeks, particularly Delta and Gamma
+- Delta hedging and dynamic portfolio rebalancing
+- Derivation of the Black–Scholes partial differential equation using Itô's lemma
+- Discrete-time hedging simulations and replication errors
 
 ## Tools
 
