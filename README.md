@@ -49,7 +49,7 @@ This repository combines mathematical foundations, financial modelling, and nume
 - Scalar and multidimensional Itô's lemma
 - Exact GBM solution and Brownian motion on a circle
 
-### [07. Black–Scholes and Delta Hedging](07-Black-Scholes-and-Delta-Hedging.ipynb)
+### [07. Black–Scholes and Delta Hedging](07-Black-Sholes-and-Delta-Hedging.ipynb)
 
 - No-arbitrage pricing and self-financing replication strategies
 - Continuous-time option pricing under the Black–Scholes model
